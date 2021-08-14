@@ -8,6 +8,11 @@
 
 
 
+
+<br>
+<br>
+<br>
+
 <p align="left">
   💼 Ferramentas: <strong> ReactJS, React Native, Node.js, Java, Python and etc.</strong>
 </p>
